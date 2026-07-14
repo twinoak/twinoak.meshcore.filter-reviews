@@ -16,6 +16,8 @@ Price 24.90 EUR + shipping (which is quite expensive)
 
 Note: Test was done with poor cabling due to the u.fl connectors!
 
+![alt text](elektronikreich-saw-869-28dbm-ufl/saw-869-28dbm-ufl-testsetup.png)
+
 ![Elektronik Reich 869MHz SAW 28dBm u.FL](elektronikreich-saw-869-28dbm-ufl/saw-869-28dbm-ufl-tinysa.png)
 
 # Callboost 868MHz 4M
@@ -26,3 +28,12 @@ Can often be bought on Aliexpress or they can be contacted via mail for custom q
 Price: varies, expect 60-80EUR + shipping
 
 ![Callboost 868Mhz filter with 4M bandwidth spectrum analyzer test](callboost-4m-868mhz/callboost-4m-868mhz-tinysa.png)
+
+## Generic AliExpress "Band Pass Filter"
+
+Source: [https://www.aliexpress.com/item/1005007509062592.html](https://www.aliexpress.com/item/1005007509062592.html)
+
+Price: ~17 USD + shipping
+![alt text](generic-aliexpress-passband-filter-1/generic-aliexpress-passband-filter-1-testsetup.jpeg)
+
+![Generic 868MHz passband filter spectrum analyzer test](generic-aliexpress-passband-filter-1/generic-aliexpress-passband-filter-1-tinysa.png)
