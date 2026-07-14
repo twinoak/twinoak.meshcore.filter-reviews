@@ -1,5 +1,7 @@
 # TwinOak filter reviews
 
+Important: Always check the sweep interval when comparing graphs! Some filters has a lot narrower passband, so the sweep might have been made smaller to increase the resolution!
+
 ## Sysmocom cf866.5-kt30
 Source: [https://shop.sysmocom.de/868-863..870-MHz-cavity-filter-ISM-LoRa-SigFox-Helium/cf866.5-kt30](https://shop.sysmocom.de/868-863..870-MHz-cavity-filter-ISM-LoRa-SigFox-Helium/cf866.5-kt30)
 
